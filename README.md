@@ -1,10 +1,12 @@
 # DevSearchApp
+It is a web apllication where Developer can create a profile and collaborate with other Developer
 # Features
 * Share Projects
 * Message other developers
 * Rate others work
 * Search other developers
 
+:key: Take a look --> https://devsearchk.herokuapp.com/
 
 # Tech Stack
 * Django
