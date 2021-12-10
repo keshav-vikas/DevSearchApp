@@ -16,11 +16,11 @@
 
 
 # Projects Page
-<img src="./resources/images/DevSearch Projects.jpg">  
+<img src="./ProjectImg/project.PNG">  
 
 # Profile Page
-<img src="./resources/images/Devsearch Profile.jpg">  
+<img src="./ProjectImg/profilepage.PNG">    
 
 # User Inbox
-<img src="./resources/images/Devsearch Inbox.jpg">  
+<img src="./ProjectImg/inbox.PNG">   
 
