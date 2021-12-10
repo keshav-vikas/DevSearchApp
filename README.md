@@ -1,5 +1,5 @@
 # DevSearchApp
-It is a web apllication where developer can create profile and collaborate with other developer.
+It is a web application where developer can create profile and collaborate with other developer.
 # Features
 * Share Projects
 * Message other developers
