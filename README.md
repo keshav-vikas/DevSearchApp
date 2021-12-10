@@ -12,7 +12,7 @@
 * Postgres
 
 # Home Page
-<img src="./resources/images/Devsearch Home.jpg">  
+<img src="./ProjectImg/mainpage.PNG">  
 
 
 # Projects Page
